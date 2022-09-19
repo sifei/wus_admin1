@@ -13,7 +13,7 @@ import config from './aws-exports';
 
 Amplify.configure(config)
 
-
+ 
 function App({ signOut }) {
   return (
     <View className="App">
